@@ -1,2 +1,1 @@
-# monero
- MINERAR
+
